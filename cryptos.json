@@ -1,0 +1,74 @@
+{
+  "cryptocurrencies": [
+    {
+      "name": "Bitcoin",
+      "label": "BTC",
+      "market_cap": "$1,000,000,000,000",
+      "price": "$50,000",
+      "change": "+5%"
+    },
+    {
+      "name": "Dogecoin",
+      "label": "DOGE",
+      "market_cap": "$100,000,000,000",
+      "price": "$0.50",
+      "change": "-2%"
+    },
+    {
+      "name": "Ethereum",
+      "label": "ETH",
+      "market_cap": "$400,000,000,000",
+      "price": "$3,500",
+      "change": "+3.5%"
+    },
+    {
+      "name": "Litecoin",
+      "label": "LTC",
+      "market_cap": "$30,000,000,000",
+      "price": "$150",
+      "change": "+1.2%"
+    },
+    {
+      "name": "Cardano",
+      "label": "ADA",
+      "market_cap": "$20,000,000,000",
+      "price": "$2.00",
+      "change": "-0.5%"
+    },
+    {
+      "name": "Polkadot",
+      "label": "DOT",
+      "market_cap": "$15,000,000,000",
+      "price": "$30",
+      "change": "+4%"
+    },
+    {
+      "name": "Chainlink",
+      "label": "LINK",
+      "market_cap": "$10,000,000,000",
+      "price": "$25",
+      "change": "+2.8%"
+    },
+    {
+      "name": "Stellar",
+      "label": "XLM",
+      "market_cap": "$7,000,000,000",
+      "price": "$0.40",
+      "change": "-1.5%"
+    },
+    {
+      "name": "VeChain",
+      "label": "VET",
+      "market_cap": "$5,000,000,000",
+      "price": "$0.10",
+      "change": "+0.8%"
+    },
+    {
+      "name": "Solana",
+      "label": "SOL",
+      "market_cap": "$3,000,000,000",
+      "price": "$75",
+      "change": "+6.5%"
+    }
+  ]
+}
